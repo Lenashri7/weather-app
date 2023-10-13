@@ -3,9 +3,9 @@
 
 This is a simple weather application built using HTML, JavaScript, and CSS. It allows users to retrieve current weather information for a specific location.
 
-![Weather App Screenshot](screenshot.png)
 
-What it does?
+
+<h1>What it does?</h1><br>
 Look pretty, that's about it :-)
 ## Features
 
@@ -13,9 +13,6 @@ Look pretty, that's about it :-)
 - Provides temperature, humidity, wind speed, and weather description.
 - Simple and responsive user interface.
 
-## Demo
-
-You can see a live demo of the Weather App [here](file:///C:/Users/Pichandi%20A/Documents/weather-app/index.html).
 
 ## Getting Started
 
