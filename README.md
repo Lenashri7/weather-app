@@ -5,7 +5,7 @@ This is a simple weather application built using HTML, JavaScript, and CSS. It a
 
 
 
-<h1>What it does?</h1><br>
+<h1>What it does?</h1>
 Look pretty, that's about it :-)
 ## Features
 
